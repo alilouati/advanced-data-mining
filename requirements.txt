@@ -1,0 +1,9 @@
+# Libraries used by the labs (all pre-installed on Google Colab)
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+networkx
+mlxtend
