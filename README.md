@@ -34,7 +34,6 @@ The labs need only standard libraries (see `requirements.txt`), all pre-installe
 ```
 slides/                  9 PowerPoint decks (16:9, speaker notes included)
 labs/                    Colab-ready Jupyter notebooks
-tools/slide-generator/   source used to generate the decks and figures (pptxgenjs + matplotlib)
 ```
 
 ## Main references
